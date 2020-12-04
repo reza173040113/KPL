@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Tim {
+	//andkjas
 	private String nama;
 	private List<Pemain> pemainInti = new ArrayList<Pemain>();
 	
